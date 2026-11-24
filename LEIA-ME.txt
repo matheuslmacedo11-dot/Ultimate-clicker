@@ -1,0 +1,11 @@
+cookie CLICKER V39
+
+Interface renovada para o universo cookie: contador e clique principal de cookies, loja temática com 50 itens originais (incluindo Árvore de cookies, Fábrica Açucarada, cookie City e cookie Supremo), upgrades e rebirth com linguagem de confeitaria.
+
+Em Configurações > Universo do jogo, alterne entre cookie Clicker e Pimenta Clássica. No modo cookie, escolha também entre seis paletas: Morango & Granulado, Chocolate, Blueberry, Menta, Galáxia e Pôr do Sol.
+
+O progresso salvo anteriormente é mantido no armazenamento local do navegador. Para atualizar uma instalação existente, feche e abra o jogo novamente para carregar a nova versão.
+
+V39: carrinho de navegação rápida abaixo das configurações com Loja, Upgrade, Objetivos e cookie. Em Configurações > Conteúdo da tela inicial, escolha Clicker + menu, Loja + clicker, Upgrades + clicker, Objetivos + clicker ou Tudo junto + clicker. Corrigida a aplicação das seis paletas do universo cookie.
+
+V39: temas também disponíveis no universo Pimenta, menu do carrinho oculta abas que já estão na tela inicial, opção para mostrar/ocultar Rebirth na tela inicial, gotas de chocolate animadas e botão principal maior.
